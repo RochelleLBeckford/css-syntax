@@ -10,7 +10,7 @@
 
 -   [ ] Rules for CSS files are written for how the trageted elements should be styled on a webpage.
 -   [ ] Syntax for these rules looks likee this:
-    -   [ ] <img src="img/a-rule-syntax-diagram.png" width="250" alt="How the Syntax rules looks for CSS">
+    -   [ ] <img src="img/a-rule-syntax-diagram.png" width="450" alt="How the Syntax rules looks for CSS">
 -   [ ] Every rule begins with a selector then followed by curly brackets { }.
     -   [ ] Inside the curly brackets, declarations are made of property:value pairs seperated by a colon.
     -   [ ] Each line will end with a semicolon ; .
