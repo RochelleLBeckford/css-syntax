@@ -1,0 +1,29 @@
+/* ~ Add this font for the entire webpage */
+* {
+    font-family: "Handlee";
+}
+
+body {
+    /* ~ Colors of my VS Code Theme -> Kawaii Gummy */
+    background-color: #393a55;
+    color: #ff9eb5;
+}
+
+/* ~ This will style the <h1> element */
+h1 {
+    background-color: #ff9eb5;
+    color: whitesmoke;
+    text-align: center;
+}
+
+/* ~ This will style the <li> element bullet to an open circle */
+.list-format {
+    list-style: circle;
+}
+
+/* ~ This will style the <p> element */
+p {
+    color: mediumorchid;
+    font-size: 25px;
+    text-align: center;
+}
